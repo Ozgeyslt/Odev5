@@ -3,7 +3,7 @@ Muhasebe departmani için personel çalıştığı gün bilgisini girdiğinde bu
 
 **Ödev Adımları:**
 
-1. Ödevinizde kullanacağınız nesneleri doğru şekilde modelleyin
-2. Maaş hesaplama metodunuzu doğru koşulda çalıştığından emin olun
-3. Prim hesaplama işlemini doğru koşulda çalıştığından emin olun
-4. Üçlü operatör kullanımı
+1. Ödevinizde kullanacağınız nesneleri doğru şekilde modelleyin.
+2. Maaş hesaplama metodunuzu doğru koşulda çalıştığından emin olun.
+3. Prim hesaplama işlemini doğru koşulda çalıştığından emin olun.
+4. Üçlü operatör kullanımı.
